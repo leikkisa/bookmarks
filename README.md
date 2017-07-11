@@ -11,7 +11,9 @@ Import instructions
 7. Click "Choose File"
 8. Select the file you downloaded earlier (lg_bookmarks.html), and press "Open"
 
-Your bookmarks bar shoudl now have a folder called "Imported" which has a folder called "LG Shared".  If you don't see it, go back to the Bookmarks menu in Chrome and click "Show Bookmarks bar".
+Your bookmarks bar shoudl now have a folder called "Imported" which has a folder called "LG Shared".  If you don't see it, go back to the Bookmarks menu in Chrome and click "Show Bookmarks bar".  If you still can't see it, it's because your bookmarks bar is full, in which acse there may be a ">>" symbol on the far right of your bookmarks bar, which will show the new "Imported" folder.
+
+You can click and drag this folder elsewhere if desired.
 
 Voila, and enjoy!
 
