@@ -1,5 +1,5 @@
 # Learners Guild Shared Bookmarks
-Phil and I put our bookmarks together to create this shared bookmarks file that we thought would be useful
+Phil and I put our bookmarks together to create this shared bookmarks file that we thought would be useful.  Feel free to suggest changes either on GitHub or to one of us directly.
 
 Import instructions
 1. Download the HTML file in this repo
